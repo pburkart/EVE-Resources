@@ -23,4 +23,8 @@ A Collection of Useful Resources for EVE Online
 
 ## Wiki
  https://wiki.eveuniversity.org/
-
+ 
+## YouTube Channels
+ [Jurius Doctor](https://www.youtube.com/channel/UCDn6Sk3JDa0wzme-T9wBfAA)
+ 
+ [delonewolf](https://www.youtube.com/channel/UCHP3_2-6Zv5gAyFC5jto0CA)
