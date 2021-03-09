@@ -19,7 +19,7 @@ A Collection of Useful Resources for EVE Online
  https://eveeye.com/
 
 ## Tools 
- https://github.com/pburkart/seat
+ https://github.com/eveseat/seat
 
 ## Wiki
  https://wiki.eveuniversity.org/
